@@ -1,0 +1,20 @@
+mapNumber,mapImage,origin,destination,totalKm,weight,mapValue,truckType,loadingMode,loadingDate,routeInfo,carrierProposals,selectedCarrier,finalValue,status,contractedAt,id,created_date,updated_date,created_by_id,created_by,is_sample
+"25/001389","https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/601566_25001389-SP.png","Pederneiras/SP","Andradina/SP","638","18200","68190","BITRUCK","paletizados","2025-05-23","1ª entrega: Penápolis/SP
+2ª entrega: Andradina/SP","{""""Ana"""":0,""""Robson"""":5500}","Robson","5000","contracted","2025-05-21T12:36:54.619Z","682dc5eb9054c364645b0fdd","2025-05-21T12:24:11.665000","2025-05-21T12:36:55.048000","null","vini.becati28@gmail.com","false"
+"25/001391","https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/fabfd3_1391.png","Pederneiras/SP","São Félix do Araguaia/MT","1664","31200","270000","CARRETA 28P","paletizados","2025-05-23","1ª entrega: São Félix do Araguaia/MT
+Latitude 11° 42' 41.38'' e Longitude 51° 52' 01.88''
+2ª entrega: São Félix do Araguaia/MT
+Latitude 11° 42' 41.38'' e Longitude 51° 52' 01.88''","{""""Ana"""":0,""""Robson"""":21000}","Robson","19500","contracted","2025-05-23T11:04:04.517Z","682dc6903016ad5b69fafc10","2025-05-21T12:26:56.516000","2025-05-23T11:04:05.063000","null","vini.becati28@gmail.com","false"
+"25/001319","https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/25c48e_1319.png","Pederneiras/SP","Sinp/MT","1730","26356","298200","CARRETA 28P","paletizados","2025-05-23","1ª entrega: Campo Novo do Parecis/MT
+2ª entrega: Sinop/MT (Verdelog)
+","{""""Ana"""":0,""""Robson"""":19800}","Robson","19100","contracted","2025-05-21T12:37:05.902Z","682dc734d9d09bb97040566a","2025-05-21T12:29:40.415000","2025-05-21T12:37:06.281000","null","vini.becati28@gmail.com","false"
+"25/001299","https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/37e4e0_1299.png","Pederneiras/SP","Rio Verde de Mato Grosso/MS","874","14816.5","141450","BITRUCK","paletizados","2025-05-21","1ª entrega: Campo Grande/MS
+2ª entrega: São Gabriel do Oeste/MS
+3ª entrega: Rio Verde de Mato Grosso/MS","{""""Ana"""":0,""""Robson"""":9000}","Robson","8000","contracted","2025-05-23T11:03:38.745Z","682dc7ca81943014608cee60","2025-05-21T12:32:10.284000","2025-05-23T11:03:39.124000","null","vini.becati28@gmail.com","false"
+"25/001408","https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/0c6eba_1408.png","Pederneiras/SP","Junqueirópolis/SP","580","20215.2","108657","CARRETA 20P","paletizados","2025-05-27","1ª entrega: Ubarana/SP
+2ª entrega: Guararapes/SP
+3ª entrega: Junqueirópolis/SP
+","{""""Ana"""":0,""""Robson"""":0}","null","null","negotiating","null","683056c8df23cfad20812ec3","2025-05-23T11:06:48.117000","2025-06-03T11:31:48.104000","null","vini.becati28@gmail.com","false"
+"25/001389","https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/86f082_1381.png","Pederneiras/SP","Andradina/SP","680","18200","68190","BITRUCK","paletizados","2025-05-23","1ª entrega: Penápolis/SP
+2ª entrega: Andradina/SP","{""""Ana"""":0,""""Robson"""":5500}","Robson","5000","contracted","2025-05-23T11:22:16.711Z","683057403ac0d1033028e841","2025-05-23T11:08:48.392000","2025-06-06T17:27:51.990000","null","vini.becati28@gmail.com","false"
+"25/001372","https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6ae160_1372.png","Pederneiras/SP","Água Clara/MS","970","26880","264384","CARRETA 28P","paletizados","2025-05-23","Água Clara/MS","{""""Ana"""":0,""""Robson"""":0}","null","null","negotiating","null","683057a6cd5b0ac9f5818c4c","2025-05-23T11:10:30.292000","2025-06-05T11:22:01.831000","null","vini.becati28@gmail.com","false"

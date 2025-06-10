@@ -1,0 +1,12 @@
+name,capacity,baseRate,modality,id,created_date,updated_date,created_by_id,created_by,is_sample
+"TRUCK","12500","1","paletizados","68078b485df35ea49204716f","2025-04-22T12:27:52.517000","2025-04-24T18:51:11.806000","null","vini.becati28@gmail.com","false"
+"BITRUCK","18500","2","paletizados","68078b50d5848c9075579431","2025-04-22T12:28:00.939000","2025-04-24T18:51:18.116000","null","vini.becati28@gmail.com","false"
+"CARRETA 20P","24500","3","paletizados","68078b6c3e2dc30c38e770c5","2025-04-22T12:28:28.112000","2025-04-24T18:51:22.711000","null","vini.becati28@gmail.com","false"
+"CARRETA 26P","31500","4","paletizados","68078b76f6f62cef6bef9cdb","2025-04-22T12:28:38.088000","2025-04-24T18:51:27.477000","null","vini.becati28@gmail.com","false"
+"CARRETA 28P","31500","5","paletizados","68078bb41886ecff787141e9","2025-04-22T12:29:40.872000","2025-04-24T18:51:31.319000","null","vini.becati28@gmail.com","false"
+"CARRETA 30P","31500","6","paletizados","68078bc85df35ea492047556","2025-04-22T12:30:00.742000","2025-04-24T18:51:35.335000","null","vini.becati28@gmail.com","false"
+"RODO SIDER 38P","500000","7","paletizados","68078bde3e2dc30c38e772d3","2025-04-22T12:30:22.398000","2025-04-24T18:51:39.403000","null","vini.becati28@gmail.com","false"
+"GRANELEIRO LS","32","1","bag","680a87b5017fef9150470f36","2025-04-24T18:49:25.871000","2025-04-24T18:53:58.798000","null","vini.becati28@gmail.com","false"
+"BITREM 4° EIXO","40","2","bag","680a89189cd8cb465f7fa312","2025-04-24T18:55:20.580000","2025-04-24T18:55:20.580000","null","vini.becati28@gmail.com","false"
+"BITREM","40","3","bag","680a89309cd8cb465f7fa33f","2025-04-24T18:55:44.630000","2025-04-24T18:55:44.630000","null","vini.becati28@gmail.com","false"
+"RODOTREM","50","4","bag","680a8945aea9bfa3a4ef928e","2025-04-24T18:56:05.368000","2025-04-24T18:56:05.368000","null","vini.becati28@gmail.com","false"
